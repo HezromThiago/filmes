@@ -1,7 +1,7 @@
 # APP de Filmes
 
 ### O QUE É
-Um app para aprendizado.
+Um app de filmes, onde busco através de uma api informações, como sinopse, titulo, descrição, etc. conseguimos salvar é excluir filmes a uma lista de favoritos, também temos uma funcionalidade interessante,  que busca o trailer do filme que você interessado. Otimo projeto.
 
 ### A QUEM SE DESTINA / OBJETIVO
 Este projeto somente para aprendizado do Reactjs. 
